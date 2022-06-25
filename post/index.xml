@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Osho Kumar</title>
+    <link>https://osho2326.github.io/portfolio/post/</link>
+    <description>Recent content in Projects on Osho Kumar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Apr 2022 11:15:58 -0400</lastBuildDate><atom:link href="https://osho2326.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project V: Netflix Movie Recommendation</title>
+      <link>https://osho2326.github.io/portfolio/post/project-5/</link>
+      <pubDate>Wed, 13 Apr 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://osho2326.github.io/portfolio/post/project-5/</guid>
+      <description>Predicted the rating that a user would give to a movie that he had not yet rated. Minimize the difference between predicted and actual rating (RMSE and MAPE).
+  Netflix provided a lot of anonymous rating data, and a prediction accuracy bar that is 10% better than what Cinematch can do on the same training data set.
+  Introduction :
+ Netflix is all about connecting people to the movies they love.</description>
+    </item>
+    
+    <item>
+      <title>Project VII: Amazon Fashion Discovery Engine</title>
+      <link>https://osho2326.github.io/portfolio/post/project-7/</link>
+      <pubDate>Sun, 13 Mar 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://osho2326.github.io/portfolio/post/project-7/</guid>
+      <description>Created a machine learning model to recommend similar apparel items/products in e-commerce.
+  First, I collected the data from amazon API, then for data cleaning, I removed duplicates, used Inverted index, Brute-force algorithm.
+  Used NLP and text mining tools:
+ Remove Stopwords Stemming For product similarity we used Tf-Idf Average word2vec Tf-Idf word2vec.    Used one-hot encoding for categorical features.
+  To find the similarity between two vectors : used euclidean distance and weighted euclidean distance based techniques called weighted-brand-colour.</description>
+    </item>
+    
+    <item>
+      <title>Project III: Taxi Demand Prediction in New York City</title>
+      <link>https://osho2326.github.io/portfolio/post/project-3/</link>
+      <pubDate>Thu, 11 Nov 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://osho2326.github.io/portfolio/post/project-3/</guid>
+      <description>Created a Machine Learning Model to find the number of pickups, given location coordinates(latitude and longitude) and time, in the query region and surrounding regions.
+  Got the data from : http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml. Used data collected in Jan - Mar 2019 to predict the pickups in Jan - Mar 2020.
+  Yellow Taxi: Yellow Medallion Taxicabs : Considered on yellow taxi data.
+ These are the famous NYC yellow taxis that provide transportation exclusively through street-hails.</description>
+    </item>
+    
+    <item>
+      <title>Project VIII: Stack Overflow: Tag Prediction</title>
+      <link>https://osho2326.github.io/portfolio/post/project-8/</link>
+      <pubDate>Mon, 13 Sep 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://osho2326.github.io/portfolio/post/project-8/</guid>
+      <description>Created a ML model to suggest the tags based on the content that was there in the question posted on Stackoverflow.
+  Introduction : Stack Overflow is the largest, most trusted online community for developers to learn, share their programming knowledge, and build their careers. The website serves as a platform for users to ask and answer questions, and, through membership and active participation, to vote questions and answers up or down and edit questions and answers in a fashion similar to a wiki or Digg.</description>
+    </item>
+    
+    <item>
+      <title>Project IV: Quora Question Pair</title>
+      <link>https://osho2326.github.io/portfolio/post/project-4/</link>
+      <pubDate>Sun, 12 Sep 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://osho2326.github.io/portfolio/post/project-4/</guid>
+      <description>Created a model that predict whether a pair of questions are duplicates or not.
+ Identify which questions asked on Quora are duplicates of questions that have already been asked. This is used to instantly provide answers to questions that have already been answered.    Introduction : Quora is a place to gain and share knowledge—about anything. It’s a platform to ask questions and connect with people who contribute unique insights and quality answers.</description>
+    </item>
+    
+    <item>
+      <title>Project II: Social network graph link prediction - Facebook</title>
+      <link>https://osho2326.github.io/portfolio/post/project-2/</link>
+      <pubDate>Tue, 10 Aug 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://osho2326.github.io/portfolio/post/project-2/</guid>
+      <description>Given a directed social graph, objective was to predict missing links to recommend users.
+  Taken data from facebook&amp;rsquo;s recruting challenge on kaggle https://www.kaggle.com/c/FacebookRecruiting data contains two columns source and destination node edge in graph - Data columns (total 2 columns):
+ source_node destination_node    Supervised Learning : Generated training samples of good and bad links from given directed graph and for each link got some features by feature engineering.</description>
+    </item>
+    
+    <item>
+      <title>Project I: Amazon Fine Food Review</title>
+      <link>https://osho2326.github.io/portfolio/post/project-1/</link>
+      <pubDate>Wed, 09 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://osho2326.github.io/portfolio/post/project-1/</guid>
+      <description>Created a machine learning model that determine whether the review is positive (Rating of 4 or 5) or negative (rating of 1 or 2). A review of 3 is neutral and ignored. This is an approximate and proxy way of determining the polarity (positivity/negativity) of a review.
+  Used the SQLITE dataset as it easier to query the data and visualise the data efficiently.
+  Amazon Fine Food Reviews has the following reviews Number of reviews: 568,454 Number of Users: 256059 Number of Products: 74,258.</description>
+    </item>
+    
+    <item>
+      <title>Project X: Indian Start-ups Ecosystem</title>
+      <link>https://osho2326.github.io/portfolio/post/project-10/</link>
+      <pubDate>Thu, 13 Aug 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://osho2326.github.io/portfolio/post/project-10/</guid>
+      <description>Data had details about 3009 funding deals and data was available from January 2015 till September 2019.
+  Observe a clear decline trend in the number of funding deals from 2016. Not sure of the exact reason.
+  Rapido Bike Taxi looked like leading the pack by raising 54 Million USD. Three of the next four high fundings were flipkart which seems to be expected and the other one is PayTM.</description>
+    </item>
+    
+    <item>
+      <title>Project IX: Zomato Bangalore Restaurants Analysis</title>
+      <link>https://osho2326.github.io/portfolio/post/project-9/</link>
+      <pubDate>Sat, 13 Jun 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://osho2326.github.io/portfolio/post/project-9/</guid>
+      <description>Here, I&amp;rsquo;m analyzing the Zomato dataset to get a fair idea about the factors affecting the establishment of restaurant at different places in Bengaluru.
+  I visualize the data and find out that places such as Bannerghatta Road, JP Nagar and several others have where there are lots of resturants and very tough compitition.
+  Casual Dinner and Bar type restaurant were the lowest in the number of restaurant around the area and they had also higher rating in comparison to others.</description>
+    </item>
+    
+    <item>
+      <title>Project VI: Personalized Cancer Diagnosis : NIPS Competition</title>
+      <link>https://osho2326.github.io/portfolio/post/project-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://osho2326.github.io/portfolio/post/project-6/</guid>
+      <description>Created a ML model which classify the given genetic variations/mutations based on evidence from text-based clinical literature.
+  We had two data files: one contained the information about the genetic mutations and the other contained the clinical evidence (text) that human experts/pathologists use to classify the genetic mutations.
+  Data files information :
+ training_variants (ID , Gene, Variations, Class) training_text (ID, Text)    Constraints :</description>
+    </item>
+    
+  </channel>
+</rss>
